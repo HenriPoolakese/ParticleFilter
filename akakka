@@ -1,0 +1,125 @@
+"milestones": [
+        {
+            "x,y": [59.425812, 24.7813135],
+            "ref": 2,
+            "destination": ["Tartu", "Pärnu", "Narva"]
+        },
+        {
+            "x,y": [59.4240742, 24.7853075],
+            "ref": 2,
+            "destination": ["Tartu", "Pärnu"]
+        },
+        {
+            "x,y": [59.4224912, 24.7876458],
+            "ref": 2,
+            "destination": ["Tartu", "Pärnu"]
+        },
+        {
+            "x,y": [59.2950323, 24.9588738],
+            "ref": 2,
+            "destination": ["Tartu"]
+        },{
+            "x,y": [59.3936718,24.8237098],
+            "ref": 2,
+            "destination": ["Tartu_179","Paide_86","Jüri_9"]
+        },{
+            "x,y": [59.3435578,24.8971735],
+            "ref": 2,
+            "destination": ["Tartu_172","Võru_240","Luhamaa_274","Kose_27"]
+        },{
+            "x,y": [59.0407164,25.4347429],
+            "ref": 2,
+            "destination": ["Tartu_119","Luhamaa_224","Mäo_19","Võru_184"]
+        },{
+            "x,y": [59.1547285,25.2059529],
+            "ref": 2,
+            "destination": ["Luhamaa_240","Võru_204","Tartu_137","Mäo_38","Aardu_13"]
+        },{
+            "x,y": [59.0958776,25.3179545],
+            "ref": 2,
+            "destination": ["Luhamaa_233","Võru_193","Tartu_127","Mäo_29"]
+        },{
+            "x,y": [58.9870414,25.596251],
+            "ref": 2,
+            "destination": ["Luhamaa_208","Võru_172","Tartu_106","Mäo_8"]
+        },{
+            "x,y": [58.9127963,25.6231468],
+            "ref": 2,
+            "destination": ["Luhamaa_199","Võru_163","Tartu_97","Põltsamaa_39"]
+        },{
+            "x,y": [58.8772617,25.6948534],
+            "ref": 2,
+            "destination": ["Luhamaa_194","Võru_159","Põlva_138","Tartu_90"]
+        },{
+            "x,y": [58.5119838,26.3231964],
+            "ref": 2,
+            "destination": ["Tartu_29"]
+        },{
+            "x,y": [58.4293001,26.4867187],
+            "ref": 2,
+            "destination": ["Luhamaa_120","Võru_85","Põlva_64","Tartu_16"]
+        },{
+            "x,y": [58.4099435,26.6456037],
+            "ref": 2,
+            "destination": ["Võru_75","Tartu_4"]
+        },{
+            "x,y": [58.4083513,26.6541967],
+            "ref": 2,
+            "destination": ["Tallinn_179","Võru_75"]
+        },{
+            "x,y": [58.4102712,26.6438679],
+            "ref": 2,
+            "destination": ["Tallinn_173"]
+        },{
+            "x,y": [58.4102888,26.6293677],
+            "ref": 2,
+            "destination": ["Tallinn_172"]
+        },{
+            "x,y": [58.4126158,26.5876208],
+            "ref": 2,
+            "destination": ["Tallinn_169"]
+        },{
+            "x,y": [58.4315986,26.4811185],
+            "ref": 2,
+            "destination": ["Tallinn_163","Paide_83","Põltsamaa_42","Puurmani_22"]
+        },{
+            "x,y": [58.6040514,26.2089789],
+            "ref": 2,
+            "destination": ["Tallinn_136","Tartu_43"]
+        },{
+            "x,y": [58.6404244,26.0887292],
+            "ref": 2,
+            "destination": ["Tallinn_128","Tartu_51"]
+        },{
+            "x,y": [58.671862,25.9316114],
+            "ref": 2,
+            "destination": ["Tallinn_124","Tartu_61"]
+        },{
+            "x,y": [58.7336315,25.8343719],
+            "ref": 2,
+            "destination": ["Tallinn_114","Tartu_71","Paide_30","Põltsamaa_14"]
+        },{
+            "x,y": [58.7447924,25.7771765],
+            "ref": 2,
+            "destination": ["Tallinn","Paide"]
+        },{
+            "x,y": [59.0508746,25.4178863],
+            "ref": 2,
+            "destination": ["Tallinn_61","Jüri_50","Vaide_40","Kose_22"]
+        },{
+            "x,y": [59.1632466,25.1743831],
+            "ref": 2,
+            "destination": ["Tallinn_41","Jüri_30","Vaide_20"]
+        },{
+            "x,y": [59.20251,25.0405656],
+            "ref": 2,
+            "destination": ["Tallinn_32","Jüri_21","Vaide_11"]
+        },{
+            "x,y": [59.3464276,24.8931455],
+            "ref": 2,
+            "destination": ["Tallinn"]
+        },{
+            "x,y": [59.3691353,24.8580682],
+            "ref": 2,
+            "destination": ["Tallinn"]
+        }
